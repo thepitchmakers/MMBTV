@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Env files
+.env
+.env.local
+.env.production
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Misc
+main
